@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^livros-angular/(.*)$ /$1 [R=301,L]
